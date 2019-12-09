@@ -17,7 +17,7 @@ extern "C"{
 }​
 int MAX_PWM_CLOCK_FREQ = 74250000; // max clock frequency of TinkerBoard
 //int SERVO_FREQ = 200; // frequency of servo
-int servo_pin = 239; // define servo_pin
+int servo_pin = 26; // define servo_pin
 
 // setup servo-pin
 void setup(void){
